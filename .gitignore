@@ -1,0 +1,38 @@
+# Backend (Spring Boot)
+**/target/
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
+**/*.log
+**/*.jar
+**/*.war
+
+# Backend sensitive files
+**/application.properties
+**/application-*.properties
+!**/application.properties.example
+
+# IDE files
+**/.idea/
+**/.vscode/
+**/*.iml
+**/.classpath
+**/.project
+**/.settings
+**/.factorypath
+
+# OS files
+**/.DS_Store
+**/Thumbs.db
+
+# Chrome Extension
+**/node_modules/
+**/package-lock.json
+**/.env
+**/dist/
+**/build/
+
+# Extension sensitive files
+**/config.js
+**/*.key
+**/credentials.json
