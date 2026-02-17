@@ -1,4 +1,4 @@
-# Email Writer SB
+# Smart Email Assistant
 
 An AI-powered email writing assistant that generates professional email replies using the Groq API. Features a Spring Boot backend, React frontend, and Chrome extension for Gmail integration.
 
